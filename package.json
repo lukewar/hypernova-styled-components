@@ -51,7 +51,7 @@
     "hypernova": "^2.0.0",
     "react": "0.14.x || >= 15.x",
     "react-dom": "0.14.x || >= 15.x",
-    "styled-components": "^3.0.0"
+    "styled-components": "^5.1.1"
   },
   "devDependencies": {
     "aphrodite": "^1.2.5",
